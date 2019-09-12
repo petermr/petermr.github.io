@@ -1,2 +1,3 @@
 name: Peter Murray-Rust
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
