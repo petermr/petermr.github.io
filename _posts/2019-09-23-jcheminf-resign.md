@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My resignation from Sprimger's J. Cheminformatics"
+title: "My resignation from Springer's J. Cheminformatics"
 date: 2019-09-23
 ---
 
