@@ -1,3 +1,10 @@
+---
+layout: post
+title: "My resignation from Sprimger's J. Cheminformatics"
+date: 2019-09-23
+---
+
+
 # My Resignation from Springer's Journal of Cheminformatics
 
 I am resigning from the Editorial Board for J. Cheminformatics on principle as I can no longer work with any Springer company.
