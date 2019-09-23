@@ -1,4 +1,4 @@
-# My Resignation from Springers='s Journal of Cheminformatics
+# My Resignation from Springer's Journal of Cheminformatics
 
 I am resigning from the Editorial Board for J. Cheminformatics on principle as I can no longer work with any Springer company.
 Over the last two years I tried to explore working with Springer in a constructive manner and wrote many mails, but they were all ignored.
